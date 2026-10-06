@@ -1,0 +1,6 @@
+{
+  "name": "PulseV3 - YouTube Intelligence & Talent Scouting Platform",
+  "description": "Enterprise YouTube Data API v3 intelligence platform featuring zero-search-quota channel uploads, talent radar, audience sentiment engine, comment NLP collation, fake view fraud detection, and quality-over-popularity ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
